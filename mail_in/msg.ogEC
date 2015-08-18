@@ -1,0 +1,316 @@
+From rich@xyglo.com  Mon Aug 17 15:05:04 2015
+Return-Path: <rich@xyglo.com>
+X-Original-To: richardbown@localhost
+Delivered-To: richardbown@localhost
+Received: from prentice01.c.future-haiku-546.internal (localhost [127.0.0.1])
+	by prentice01.c.future-haiku-546.internal (Postfix) with ESMTP id 0466362D90
+	for <richardbown@localhost>; Mon, 17 Aug 2015 15:05:04 +0000 (UTC)
+Delivered-To: bookings_dev@thinkingmuseum.com
+Received: from wj-in-f108.1e100.net [74.125.195.108]
+	by prentice01.c.future-haiku-546.internal with POP3 (fetchmail-6.3.21)
+	for <richardbown@localhost> (single-drop); Mon, 17 Aug 2015 15:05:04 +0000 (UTC)
+Received: by 10.36.35.203 with SMTP id u194csp1485203itu;
+        Mon, 17 Aug 2015 08:00:13 -0700 (PDT)
+X-Received: by 10.194.93.166 with SMTP id cv6mr3459993wjb.63.1439823613267;
+        Mon, 17 Aug 2015 08:00:13 -0700 (PDT)
+Received: from mail-wi0-f174.google.com (mail-wi0-f174.google.com. [209.85.212.174])
+        by mx.google.com with ESMTPS id xa7si27380109wjc.160.2015.08.17.08.00.12
+        for <bookings_dev@thinkingmuseum.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 17 Aug 2015 08:00:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of rich@xyglo.com designates 209.85.212.174 as permitted sender) client-ip=209.85.212.174;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of rich@xyglo.com designates 209.85.212.174 as permitted sender) smtp.mailfrom=rich@xyglo.com
+Received: by wibhh20 with SMTP id hh20so83666180wib.0
+        for <bookings_dev@thinkingmuseum.com>; Mon, 17 Aug 2015 08:00:12 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:message-id:mime-version
+         :subject:date:references:to;
+        bh=t6i2wStzlhFCIU4c4TQfCH3UCYhxQC/SoWtcdnPKI/E=;
+        b=mo+gp3NVuJYLrhBGIAyyzFRLFDhCgNOi4famncmp5+c+XLbXiE0cf0OYtrmY7CCLPL
+         m5AyTDOHXcuhU8Tfm4mzvokH+EJ2o6wC/4tJlvmhuQ7OHsV6yaHD9lb2ZYqMj/apJzA9
+         LzvSMj+m8l05AM1/f4p82o0GxA2ceQUsvSc6TDwme0R8EJSR3C5iyNgKYPDCKwRo9/IP
+         rTKCNz7u/kqrNYg2ZUVZ9gGV9+4R/LbjWCSoBcb0vEHqv7VFu88efdgBDrEQz0NfBhXY
+         R78ubS1ZHzNTasTa8PxwY3syg/BHnV9fK13E3Rp9Ccwh6gcNRod+BnV5nfykinciWzGl
+         6Yiw==
+X-Gm-Message-State: ALoCoQmngEDHxNU8qRdPnwHLBM2zFLcpgtJwsx4m0xhK0P2LFyRmSnZzsZ3nFv+Ilf5m+oU6Gc/N
+X-Received: by 10.180.103.34 with SMTP id ft2mr34159066wib.62.1439823612332;
+        Mon, 17 Aug 2015 08:00:12 -0700 (PDT)
+Received: from [192.168.0.21] (d41048.upc-d.chello.nl. [213.46.41.48])
+        by smtp.gmail.com with ESMTPSA id s7sm17085732wix.23.2015.08.17.08.00.05
+        for <bookings_dev@thinkingmuseum.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 17 Aug 2015 08:00:05 -0700 (PDT)
+From: Richard Bown <rich@xyglo.com>
+X-Google-Original-From: Richard Bown <rich@thinkingmuseum.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_5E305E69-FD1F-44D5-9333-A524D93EA89C"
+Message-Id: <9526E34E-4277-437B-B49D-FEC7BE8CEDA5@thinkingmuseum.com>
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+X-Priority: 3
+Subject: Fwd: [Thinking Museum] Rijksmuseum and Van Gogh Museum Private Tour
+Date: Mon, 17 Aug 2015 17:00:04 +0200
+References: <D70B81F0-BC39-4B52-BAA6-46C3480A05B9@thinkingmuseum.com>
+To: bookings_dev@thinkingmuseum.com
+X-Mailer: Apple Mail (2.2104)
+
+
+--Apple-Mail=_5E305E69-FD1F-44D5-9333-A524D93EA89C
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=utf-8
+
+
+
+> Begin forwarded message:
+>=20
+> From: Claire Bown <claire@thinkingmuseum.com>
+> Subject: Fwd: [Thinking Museum] Rijksmuseum and Van Gogh Museum =
+Private Tour
+> Date: 10 August 2015 12:23:44 CEST
+> To: Richard Bown <rich@thinkingmuseum.com>
+>=20
+>=20
+> Claire Bown
+> Thinking Museum
+>=20
+> Sign up for our news, views and more here: http://eepurl.com/IBzBX =
+<http://eepurl.com/IBzBX>
+>=20
+> Mobile: +31 6 39 779 039=C2=A0 <>
+> Website: www.thinkingmuseum.com <>
+> Twitter: @thinkingmuseum=C2=A0 <>
+> Facebook: www.facebook.com/ThinkingMuseum=C2=A0 <>
+>=20
+>=20
+>=20
+>=20
+>=20
+>> Begin forwarded message:
+>>=20
+>> From: Caroline Zayid <wordpress@thinkingmuseum.com =
+<mailto:wordpress@thinkingmuseum.com>>
+>> Subject: [Thinking Museum] Rijksmuseum and Van Gogh Museum Private =
+Tour
+>> Date: 7 Aug 2015 03:34:39 CEST
+>> To: claire@thinkingmuseum.com <mailto:claire@thinkingmuseum.com>
+>> Reply-To: "Caroline Zayid" <czayid@mccarthy.ca =
+<mailto:czayid@mccarthy.ca>>
+>>=20
+>> Name: Caroline Zayid
+>> Email: czayid@mccarthy.ca <mailto:czayid@mccarthy.ca>
+>> Enquiry: We would like to have a guided tour of these two museums for =
+our family of 4.  We are two adults and two daughters (ages 14 and 12).  =
+Thank you.
+>> Name of Tour: Rijksmuseum and Van Gogh Museum Combined Tour
+>> Date of Tour : August 20
+>> Number of Participants: 4
+>>=20
+>> Time: August 7, 2015 at 1:34 am
+>> IP Address: 65.95.163.12
+>> Contact Form URL: =
+http://thinkingmuseum.com/thinking-museum-private-tours/private-tours-in-a=
+msterdam/rijksmuseum-and-van-gogh-museum-private-tour/ =
+<http://thinkingmuseum.com/thinking-museum-private-tours/private-tours-in-=
+amsterdam/rijksmuseum-and-van-gogh-museum-private-tour/>
+>> Sent by an unverified visitor to your site.
+>>=20
+>=20
+
+
+--Apple-Mail=_5E305E69-FD1F-44D5-9333-A524D93EA89C
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><br class=3D""><div style=3D""><br class=3D""><blockquote =
+type=3D"cite" class=3D""><div class=3D"">Begin forwarded =
+message:</div><br class=3D"Apple-interchange-newline"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif; =
+color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">From: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica =
+Neue, Helvetica, sans-serif;" class=3D"">Claire Bown &lt;<a =
+href=3D"mailto:claire@thinkingmuseum.com" =
+class=3D"">claire@thinkingmuseum.com</a>&gt;<br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">Subject: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica =
+Neue, Helvetica, sans-serif;" class=3D""><b class=3D"">Fwd: [Thinking =
+Museum] Rijksmuseum and Van Gogh Museum Private Tour</b><br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">Date: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica =
+Neue, Helvetica, sans-serif;" class=3D"">10 August 2015 12:23:44 CEST<br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">To: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica =
+Neue, Helvetica, sans-serif;" class=3D"">Richard Bown &lt;<a =
+href=3D"mailto:rich@thinkingmuseum.com" =
+class=3D"">rich@thinkingmuseum.com</a>&gt;<br class=3D""></span></div><br =
+class=3D""><div class=3D""><meta http-equiv=3D"Content-Type" =
+content=3D"text/html charset=3Dus-ascii" class=3D""><div =
+style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><br class=3D""><div =
+class=3D"">
+<div style=3D"letter-spacing: normal; orphans: auto; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: =
+auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><div style=3D"letter-spacing: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><div style=3D"color: rgb(34, 34, 34); =
+font-family: arial; font-size: small; background-color: rgb(255, 255, =
+255);" class=3D""><div class=3D"">Claire Bown</div><div =
+class=3D"">Thinking Museum</div><div class=3D""><br class=3D""></div><div =
+class=3D""><font color=3D"#6aa84f" class=3D""><i class=3D"">Sign up for =
+our news, views and more here:&nbsp;</i><i class=3D""><a =
+href=3D"http://eepurl.com/IBzBX" target=3D"_blank" style=3D"color: =
+rgb(17, 85, 204);" =
+class=3D"">http://eepurl.com/IBzBX</a></i></font></div><div class=3D""><br=
+ class=3D""></div><div class=3D"">Mobile:&nbsp;<a value=3D"+31615021611" =
+style=3D"color: rgb(17, 85, 204);" class=3D""><font color=3D"#6aa84f" =
+class=3D"">+31 6 39 779 039&nbsp;</font></a></div><div =
+class=3D"">Website:&nbsp;<a value=3D"+31615021611" style=3D"color: =
+rgb(17, 85, 204);" class=3D""><font color=3D"#6aa84f" =
+class=3D"">www.thinkingmuseum.com</font></a></div><div =
+class=3D"">Twitter:&nbsp;<a value=3D"+31615021611" style=3D"color: =
+rgb(17, 85, 204);" class=3D""><font color=3D"#6aa84f" =
+class=3D"">@thinkingmuseum&nbsp;</font></a></div><div =
+class=3D"">Facebook:&nbsp;<a value=3D"+31615021611" style=3D"color: =
+rgb(17, 85, 204);" class=3D""><font color=3D"#6aa84f" =
+class=3D"">www.facebook.com/ThinkingMuseum&nbsp;</font></a></div><div =
+class=3D""><br class=3D""></div><div class=3D""><div style=3D"font-size: =
+12px;" class=3D""><br =
+class=3D""></div></div></div></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div><br =
+class=3D"Apple-interchange-newline"><br =
+class=3D"Apple-interchange-newline">
+</div>
+<div style=3D"" class=3D""><br class=3D""><blockquote type=3D"cite" =
+class=3D""><div class=3D"">Begin forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span=
+ style=3D"font-family: -webkit-system-font, 'Helvetica Neue', Helvetica, =
+sans-serif;" class=3D""><b class=3D"">From: </b></span><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif;" class=3D"">Caroline Zayid &lt;<a =
+href=3D"mailto:wordpress@thinkingmuseum.com" =
+class=3D"">wordpress@thinkingmuseum.com</a>&gt;<br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, 'Helvetica Neue', Helvetica, =
+sans-serif;" class=3D""><b class=3D"">Subject: </b></span><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif;" class=3D""><b class=3D"">[Thinking Museum] Rijksmuseum and =
+Van Gogh Museum Private Tour</b><br class=3D""></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, 'Helvetica Neue', Helvetica, sans-serif;" =
+class=3D""><b class=3D"">Date: </b></span><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif;" class=3D"">7 =
+Aug 2015 03:34:39 CEST<br class=3D""></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, 'Helvetica Neue', Helvetica, sans-serif;" =
+class=3D""><b class=3D"">To: </b></span><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif;" class=3D""><a=
+ href=3D"mailto:claire@thinkingmuseum.com" =
+class=3D"">claire@thinkingmuseum.com</a><br class=3D""></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, 'Helvetica Neue', Helvetica, sans-serif;" =
+class=3D""><b class=3D"">Reply-To: </b></span><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif;" =
+class=3D"">"Caroline Zayid" &lt;<a href=3D"mailto:czayid@mccarthy.ca" =
+class=3D"">czayid@mccarthy.ca</a>&gt;<br class=3D""></span></div><br =
+class=3D""><div class=3D"">Name: Caroline Zayid<br class=3D"">Email: <a =
+href=3D"mailto:czayid@mccarthy.ca" class=3D"">czayid@mccarthy.ca</a><br =
+class=3D"">Enquiry: We would like to have a guided tour of these two =
+museums for our family of 4. &nbsp;We are two adults and two daughters =
+(ages 14 and 12). &nbsp;Thank you.<br class=3D"">Name of Tour: =
+Rijksmuseum and Van Gogh Museum Combined Tour<br class=3D"">Date of Tour =
+: August 20<br class=3D"">Number of Participants: 4<br class=3D""><br =
+class=3D"">Time: August 7, 2015 at 1:34 am<br class=3D"">IP Address: =
+65.95.163.12<br class=3D"">Contact Form URL: <a =
+href=3D"http://thinkingmuseum.com/thinking-museum-private-tours/private-to=
+urs-in-amsterdam/rijksmuseum-and-van-gogh-museum-private-tour/" =
+class=3D"">http://thinkingmuseum.com/thinking-museum-private-tours/private=
+-tours-in-amsterdam/rijksmuseum-and-van-gogh-museum-private-tour/</a><br =
+class=3D"">Sent by an unverified visitor to your site.<br class=3D""><br =
+class=3D""></div></blockquote></div><br =
+class=3D""></div></div></blockquote></div><br class=3D""></body></html>=
+
+--Apple-Mail=_5E305E69-FD1F-44D5-9333-A524D93EA89C--
+

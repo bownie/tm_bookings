@@ -1,0 +1,19 @@
+From richardbown@prentice01.c.future-haiku-546.internal  Mon Aug 17 15:10:01 2015
+Return-Path: <richardbown@prentice01.c.future-haiku-546.internal>
+X-Original-To: richardbown
+Delivered-To: richardbown@prentice01.c.future-haiku-546.internal
+Received: by prentice01.c.future-haiku-546.internal (Postfix, from userid 1000)
+	id 75D3462DA9; Mon, 17 Aug 2015 15:10:01 +0000 (UTC)
+From: root@prentice01.c.future-haiku-546.internal (Cron Daemon)
+To: richardbown@prentice01.c.future-haiku-546.internal
+Subject: Cron <richardbown@prentice01> /usr/bin/fetchmail
+Content-Type: text/plain; charset=UTF-8
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/richardbown>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=richardbown>
+Message-Id: <20150817151001.75D3462DA9@prentice01.c.future-haiku-546.internal>
+Date: Mon, 17 Aug 2015 15:10:01 +0000 (UTC)
+
+fetchmail: background fetchmail at 792 awakened.
+
